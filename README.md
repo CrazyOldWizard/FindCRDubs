@@ -5,3 +5,5 @@ To use, simply download the zip from the release section and then extract and ru
 When finished, a text file in the same folder will have a list of all the shows it found.
 
 ![Example](https://i.imgur.com/L48BjOL.gif)
+
+A current list as of (9/30/2020) can be found here: https://docs.google.com/spreadsheets/d/12iR3_HVIRVwRkCZiUQZulwvH7LCUzMg_kiNgh9PQhyQ/edit?usp=sharing
